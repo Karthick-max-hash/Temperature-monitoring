@@ -1,4 +1,4 @@
-# Temperature-monitoring# 🌡 Temperature Monitoring System using LM35 and LED (Arduino + Tinkercad)
+# Temperature-monitoring# 🌡 Temperature Monitoring System using TMD32 and LED (Arduino + Tinkercad)
 
 This project simulates a basic temperature monitoring system using an *TMD32 temperature sensor* and an *LED* with an *Arduino UNO* in *Tinkercad*.
 
